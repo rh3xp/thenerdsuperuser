@@ -12,7 +12,7 @@
 
 Okay, so now I can "pin" more than 6 repositories on my profile.
 
-![Repo :snake: ](https://github-readme-stats.vercel.app/api/pin/?username=thenerdsuperuser&show_owner=true&repo=nagini)
+[![Repo :snake: ](https://github-readme-stats.vercel.app/api/pin/?username=thenerdsuperuser&show_owner=true&repo=nagini)](https://github.com/thenerdsuperuser/nagini)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenerdsuperuser)
 
