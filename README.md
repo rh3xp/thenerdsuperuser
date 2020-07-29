@@ -8,10 +8,14 @@
 - 🔭 I’m currently working under the organization [loopsync](https://github.com/loopsync)   
 - 🌱 I’m currently learning [JavaScript](https://github.com/loopsync/js-days)   
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=thenerdsuperuser&count_private=true&show_icons=true&theme=radical&repo=nagini&show_owner=true)](https://github.com/thenerdsuperuser/nagini
-)
+![My github stats](https://github-readme-stats.vercel.app/api?username=thenerdsuperuser&count_private=true&show_icons=true&theme=radical&repo=nagini&show_owner=true)
 
-Okay, so now I can "pin" more than 6 repositoris on my profile.
+Okay, so now I can "pin" more than 6 repositories on my profile.
+
+![Repo :snake: ](https://github-readme-stats.vercel.app/api/pin/?username=thenerdsuperuser&show_owner=true&repo=nagini)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenerdsuperuser)
+
 
 <!--
 - ⚡ Fun fact: Just added [Issue](./.github/ISSUE_TEMPLATE.md) and [PR](./.github/PULL_REQUEST_TEMPLATE.md) templates.   
