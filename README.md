@@ -7,7 +7,7 @@
 - 🔭 I’m currently working under the organization [loopsync](https://github.com/loopsync)   
 - 🌱 I’m currently learning [JavaScript](https://github.com/loopsync/js-days)   
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=thenerdsuperuser&count_private=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=thenerdsuperuser&count_private=true&show_icons=true&theme=radical)
 
 
 <!--
