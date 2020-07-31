@@ -16,12 +16,15 @@ Okay, so now I can "pin" more than 6 repositories on my profile.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenerdsuperuser)
 
+<details>
+<summary>Default Template</summary>
 
-<!--
 - ⚡ Fun fact: Just added [Issue](./.github/ISSUE_TEMPLATE.md) and [PR](./.github/PULL_REQUEST_TEMPLATE.md) templates.   
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
--->
+
+</details>
+
