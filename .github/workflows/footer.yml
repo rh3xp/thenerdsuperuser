@@ -1,11 +1,17 @@
-name: My Workflow
-on:
-  push:
-    branches: [master]
+name: Example
+on: push
 jobs:
-  build:
+  echo:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Build image
-        run: echo ${GITHUB_SHA} > hash.md
+      - run: echo -n -e "HELLO\n !\n World!" > hash.md
+
+      - uses: pCYSl5EDgo/cat@master
+        id: hello
+        with:
+          path: hash.md
+
+      - run: echo $TEXT
+        env:
+          TEXT: ${{ steps.hello.outputs.text  }}
