@@ -12,7 +12,7 @@ jobs:
         env:
             myREPO: ${{ github.repository }}
             mySHA: ${{ github.sha }}
-        run: echo "https://github.com/$myREPO/commit/$mySHA > hash.md
+        run: echo "https://github.com/$myREPO/commit/$mySHA" > hash.md
       - uses: pCYSl5EDgo/cat@master
         id: hello
         with:
