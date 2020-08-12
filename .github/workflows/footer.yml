@@ -4,16 +4,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout gh-page repo
       - uses: actions/checkout@master
         with:
+          repository: thenerdsuperuser/thenerdsuperuser.github.io
           path: main
           persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
           fetch-depth: 0 # otherwise, you will failed to push refs to dest repo
-      - name: Checkout tools repo
-        uses: actions/checkout@v2
-        with:
-          repository: thenerdsuperuser/thenerdsuperuser.github.io
-          path: thenerdsuperuser
       - name: Create local changes
         env:
             myREPO: ${{ github.repository }}
