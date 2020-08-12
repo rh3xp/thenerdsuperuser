@@ -8,4 +8,4 @@ jobs:
 
     steps:
       - name: Build image
-        run: echo $(echo ${GITHUB_SHA} | cut -c1-8) > hash.md
+        run: echo $(echo ${GITHUB_SHA}) > hash.md
