@@ -14,6 +14,12 @@ I like bleeding-edge tech so Arch Linux is my daily driver. Vim is my lifesaver.
 ![My github stats](https://github-readme-stats.vercel.app/api?username=thenerdsuperuser&count_private=true&show_icons=true&theme=radical&repo=nagini&show_owner=true)
 
 
+This repo contains a github actions script, which automates this file to contain the latest commit hash.
+
+Check my latest mistake [here].
+
+[here]: https://incorrectsha.com 
+
 <details>
 <summary>Testing Template</summary>
 
@@ -22,6 +28,7 @@ Okay, so now I can "pin" more than 6 repositories on my profile.
 [![Repo :snake: ](https://github-readme-stats.vercel.app/api/pin/?username=thenerdsuperuser&show_owner=true&repo=nagini)](https://github.com/thenerdsuperuser/nagini)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenerdsuperuser)
+
 
 <!--
 **thenerdsuperuser/thenerdsuperuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
