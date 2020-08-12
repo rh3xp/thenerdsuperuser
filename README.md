@@ -14,11 +14,8 @@ I like bleeding-edge tech so Arch Linux is my daily driver. Vim is my lifesaver.
 ![My github stats](https://github-readme-stats.vercel.app/api?username=thenerdsuperuser&count_private=true&show_icons=true&theme=radical&repo=nagini&show_owner=true)
 
 
-This repo contains a github actions script, which automates this file to contain the latest commit hash.
-
-Check my latest mistake [here].
-
-[here]: https://incorrectsha.com 
+This repo contains a secret automation script.
+Check my latest mistake [here](./hash.md)
 
 <details>
 <summary>Testing Template</summary>
