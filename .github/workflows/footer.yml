@@ -4,7 +4,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout gh-page repo
       - uses: actions/checkout@master
         with:
           repository: thenerdsuperuser/thenerdsuperuser.github.io
