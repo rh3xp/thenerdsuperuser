@@ -3,6 +3,7 @@ name: My Workflow
 jobs:
   on:
     push:
+      branches: [master]
   build:
     runs-on: ubuntu-latest
 
