@@ -1,0 +1,9 @@
+name: My Workflow
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Build image
+        run: echo $(echo ${GITHUB_SHA} | cut -c1-8) > hash.md
