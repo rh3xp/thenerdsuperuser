@@ -13,10 +13,9 @@ jobs:
             myREPO: ${{ github.repository }}
             mySHA: ${{ github.sha }}
         run: |
-          cat > hash.md << 'EOL'
-          ## Github Action script
-          My website runs on [ this commit ](https://github.com/$myREPO/commit/$mySHA)
-          EOL
+          echo "## Github Action script" > hash.md
+          echo -e "```yaml\non: push\n  branch: [ master ]\n```" >> hash.md
+          echo "My website runs on [ this commit ](https://github.com/$myREPO/commit/$mySHA)" >> hash.md
       - uses: pCYSl5EDgo/cat@master
         id: hello
         with:
