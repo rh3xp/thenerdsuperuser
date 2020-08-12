@@ -1,1 +1,2 @@
-https://github.com/thenerdsuperuser/thenerdsuperuser/commit/894e2daf88de6809a987a79b2fc2294178d7411b
+## Github Action script
+My website runs on [ this commit ](https://github.com/thenerdsuperuser/thenerdsuperuser/commit/9df19647b696a6f714c769957b17121bc4345a40)
