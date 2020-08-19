@@ -10,7 +10,7 @@ I like bleeding-edge tech so Arch Linux is my daily driver. Vim is my lifesaver.
 
 <br/>
 
-This repo contains a secret automation script. Check my latest mistake [here](../hash.md)   
+This repo contains a secret automation script. Check my latest mistake [here](hash.md)   
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=thenerdsuperuser&count_private=true&show_icons=true&theme=radical&repo=nagini&show_owner=true)
 
