@@ -1,5 +1,7 @@
 <h2> thenerdsuperuser <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right'  src="https://i.ibb.co/Z21fXsV/Whats-App-Image-2020-08-03-at-1-19-19-AM.jpg" alt="Whats-App-Image-2020-08-03-at-1-19-19-AM" border="0">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thenerdsuperuser" alt="devded" /></p>
+
 <br/>
 
 So there is another merge conflict you say?
