@@ -17,6 +17,13 @@ This repo contains a secret automation script. Check my latest mistake [here](ha
 ![My github stats](https://github-readme-stats.vercel.app/api?username=thenerdsuperuser&count_private=true&show_icons=true&theme=radical&repo=nagini&show_owner=true)
 
 
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7u03qd6wd3c6r2jgxq7xsxmvf&cover_image=true&theme=default" /></div>  
+
+<br/>  
+
+
 <details>
 <summary>Testing Template</summary>
 
