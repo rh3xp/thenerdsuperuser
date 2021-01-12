@@ -16,6 +16,7 @@ This repo contains a secret automation script. Check my latest mistake [here](ha
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=thenerdsuperuser&count_private=true&show_icons=true&theme=radical&repo=nagini&show_owner=true)
 
+## My latest dev.to posts: 
 
 <!-- BLOG-POST-LIST:START -->
 - [Github Deprecates Password Authentication Part 1](https://dev.to/thenerdsuperuser/github-deprecates-password-authentication-part-1-447g)
