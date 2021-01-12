@@ -17,35 +17,4 @@ This repo contains a secret automation script. Check my latest mistake [here](ha
 ![My github stats](https://github-readme-stats.vercel.app/api?username=thenerdsuperuser&count_private=true&show_icons=true&theme=radical&repo=nagini&show_owner=true)
 
 
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7u03qd6wd3c6r2jgxq7xsxmvf&cover_image=true&theme=default" /></div>  
-
-<br/>  
-
-
-<details>
-<summary>Testing Template</summary>
-
-Okay, so now I can "pin" more than 6 repositories on my profile.
-
-[![Repo :snake: ](https://github-readme-stats.vercel.app/api/pin/?username=thenerdsuperuser&show_owner=true&repo=nagini)](https://github.com/thenerdsuperuser/nagini)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenerdsuperuser)
-
-
-<!--
-**thenerdsuperuser/thenerdsuperuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
-- 🔭 I’m currently working under the organization [loopsync](https://github.com/loopsync)   
-- 🌱 I’m currently learning [JavaScript](https://github.com/loopsync/js-days)   
-- ⚡ Fun fact: Just added [Issue](./.github/ISSUE_TEMPLATE.md) and [PR](./.github/PULL_REQUEST_TEMPLATE.md) templates.   
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-
-</details>
-
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
