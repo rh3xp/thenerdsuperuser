@@ -22,3 +22,8 @@ This repo contains a secret automation script. Check my latest mistake [here](ha
 - [Github Deprecates Password Authentication Part 1](https://dev.to/thenerdsuperuser/github-deprecates-password-authentication-part-1-447g)
 - [happiness is when your pull request is merged :3](https://dev.to/thenerdsuperuser/happiness-is-when-your-pull-request-is-merged-3-53k)
 <!-- BLOG-POST-LIST:END -->
+
+# My latest notes: 
+
+<!-- NOTES:START -->
+<!-- NOTES:END -->
