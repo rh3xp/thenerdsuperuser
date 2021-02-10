@@ -1,18 +1,17 @@
-name: Latest blog post workflow
+name: Latest stack overflow activity
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs every 5 minutes
+    - cron: '*/5 * * * *'
   workflow_dispatch:
-
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-readme-with-stack-overflow:
+    name: Update this repo's README with latest activity from Notes
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "NOTES"
-          commit_message: "Updated readme with the latest notes data"
+          commit_message: "Updated readme with the latest Notes data"
           feed_list: "https://notes.thenerdsuperuser.xyz/feed.xml"
