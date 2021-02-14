@@ -26,9 +26,9 @@ This repo contains a secret automation script. Check my latest mistake [here](ha
 # My latest notes: 
 
 <!-- NOTES:START -->
+- [Flask: After 3 projects](https://notes.thenerdsuperuser.xyz//whats-poppin/)
 - [Deepin Window Effect Error](https://notes.thenerdsuperuser.xyz//deepin-window-effect/)
 - [Install Deepin on Ubuntu](https://notes.thenerdsuperuser.xyz//install-deepin/)
 - [Github Changes Authentication Policy](https://notes.thenerdsuperuser.xyz//ssh-auth/)
 - [New Decade, New System](https://notes.thenerdsuperuser.xyz//new-decade-new-system/)
-- [New org](https://notes.thenerdsuperuser.xyz//learn/)
 <!-- NOTES:END -->
