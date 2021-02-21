@@ -1,4 +1,4 @@
-<h2> thenerdsuperuser <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2><img  align='right'  src="https://i.ibb.co/Z21fXsV/Whats-App-Image-2020-08-03-at-1-19-19-AM.jpg" alt="Whats-App-Image-2020-08-03-at-1-19-19-AM" border="0">
+<h2> thenerdsuperuser <img src="https://i.ibb.co/XSf3yNq/68747470733a2f2f692e6962622e636f2f5a3231665873562f57686174732d4170702d496d6167652d323032302d30382d30.png" alt="68747470733a2f2f692e6962622e636f2f5a3231665873562f57686174732d4170702d496d6167652d323032302d30382d30" border="0" /> </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenerdsuperuser" alt="devded" /></p>
 
@@ -11,7 +11,8 @@ A nerd who lives his life inside a linux terminal and automates browsers and web
 I like bleeding-edge tech so Arch Linux is my daily driver. Vim is my lifesaver. I speak Parseltongue 🐍 
 
 
-* :fire: I'm co-founder of open source initiate [Learn X Today](https://github.com/learnxtoday)   
+* :fire: I am the initiator of the organization [Learn X Today](https://github.com/learnxtoday). Email me for more details.   
+* :speech_balloon: Ask me about Open Source and how to get started. :raised_hands:   
 * :seedling: I’m a Pythonista. :snake:   
 * :dancers: I’m looking to collaborate with other open source contributers.    
 * :goal_net: 2021 Goals: Contribute more to Open Source projects.   
