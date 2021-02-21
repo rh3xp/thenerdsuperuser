@@ -32,3 +32,6 @@ This repo contains a secret automation script. Check my latest mistake [here](ha
 - [Github Changes Authentication Policy](https://notes.thenerdsuperuser.xyz//ssh-auth/)
 - [New Decade, New System](https://notes.thenerdsuperuser.xyz//new-decade-new-system/)
 <!-- NOTES:END -->
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thenerdsuperuser&" alt="thenerdsuperuser" /></p>
