@@ -18,7 +18,7 @@ I like bleeding-edge tech so Arch Linux is my daily driver. Vim is my lifesaver.
 * :seedling: I’m a Pythonista. :snake:   
 * :dancers: I’m looking to collaborate with other open source contributers.    
 * :goal_net: 2021 Goals: Contribute more to Open Source projects.   
-* :zap: Fun fact: I am currently reading **Permananet Record** by *Edward Snowden*.
+* :zap: Fun fact: I am currently reading **Permanent Record** by *Edward Snowden*.
 
 
 This repo contains a secret automation script. Check my latest mistake [here](hash.md)   
