@@ -28,6 +28,7 @@ This repo contains a secret automation script. Check my latest mistake [here](ha
 ## My latest dev.to posts: 
 
 <!-- BLOG-POST-LIST:START -->
+- [Coding movie hacking tools](https://dev.to/thenerdsuperuser/coding-movie-hacking-tools-4ngh)
 - [Github Deprecates Password Authentication Part 1](https://dev.to/thenerdsuperuser/github-deprecates-password-authentication-part-1-447g)
 - [happiness is when your pull request is merged :3](https://dev.to/thenerdsuperuser/happiness-is-when-your-pull-request-is-merged-3-53k)
 <!-- BLOG-POST-LIST:END -->
