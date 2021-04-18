@@ -10,8 +10,7 @@ A nerd who lives his life inside a linux terminal and automates browsers and web
 more.
 
 I like bleeding-edge tech so Arch Linux is my daily driver. Vim is my lifesaver. I speak Parseltongue 🐍 
-  
-<br></br> 
+
 
 * :fire: I am the initiator of the organization [Learn X Today](https://github.com/learnxtoday). Email me for more details.   
 * :speech_balloon: Ask me about Open Source and how to get started. :raised_hands:   
@@ -19,6 +18,8 @@ I like bleeding-edge tech so Arch Linux is my daily driver. Vim is my lifesaver.
 * :dancers: I’m looking to collaborate with other open source contributers.    
 * :goal_net: 2021 Goals: Contribute more to Open Source projects.   
 * :zap: Fun fact: I am currently reading **Permanent Record** by *Edward Snowden*.
+
+[![thenerdsuperuser's github activity graph](https://activity-graph.herokuapp.com/graph?username=thenerdsuperuser&theme=xcode)](https://git.io/thenerdsuperuser)
 
 
 This repo contains a secret automation script. Check my latest mistake [here](hash.md)   
