@@ -46,3 +46,5 @@ This repo contains a secret automation script. Check my latest mistake [here](ha
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thenerdsuperuser&" alt="thenerdsuperuser" /></p>
+
+<a href="https://app.daily.dev/parthkrishna"><img src="https://api.daily.dev/devcards/8cd3bd40fb2e4b5f907071e0484a4ad1.png?r=qyg" width="400" alt="Parth Krishna's Dev Card"/></a>
